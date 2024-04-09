@@ -22,11 +22,13 @@ Before running this application, make sure you have the following installed:
 ## Registration form
 
 ![image](https://github.com/vaishali2822/RegistrationForm/assets/162594672/1709cdd3-c44b-4931-9467-41c6ed587838)
+![image](https://github.com/vaishali2822/RegistrationForm/assets/162594672/90209d4d-6ae9-468f-ba2e-10a6ca3c738e)
 
-## Submission 
+
+## Form validation 
 ![image](https://github.com/vaishali2822/RegistrationForm/assets/162594672/e2feed23-fed3-4e54-a50f-7bbd7587ad1d)
 
-## Details storage in database
+## Details storage in the database
 ![image](https://github.com/vaishali2822/RegistrationForm/assets/162594672/5bde595f-8340-4b72-bef4-e267c42ef630)
 ![image](https://github.com/vaishali2822/RegistrationForm/assets/162594672/6626f5d8-2dfe-4af5-bd37-80aec1fdbd3e)
 
