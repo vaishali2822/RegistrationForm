@@ -18,12 +18,15 @@ Before running this application, make sure you have the following installed:
 - Data stored in MongoDB.
 
 
-##Output
-#Registration form
+## Output
+# Registration form
+
 ![image](https://github.com/vaishali2822/RegistrationForm/assets/162594672/1709cdd3-c44b-4931-9467-41c6ed587838)
-#Submission 
+
+# Submission 
 ![image](https://github.com/vaishali2822/RegistrationForm/assets/162594672/e2feed23-fed3-4e54-a50f-7bbd7587ad1d)
-#deatils storage in database
+
+# deatils storage in database
 ![image](https://github.com/vaishali2822/RegistrationForm/assets/162594672/5bde595f-8340-4b72-bef4-e267c42ef630)
 ![image](https://github.com/vaishali2822/RegistrationForm/assets/162594672/6626f5d8-2dfe-4af5-bd37-80aec1fdbd3e)
 
